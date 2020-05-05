@@ -1,0 +1,12 @@
+F:\Git\GitHub\DotNetCore\基础\树形层\bin\Debug\netcoreapp3.1\树形层.exe
+F:\Git\GitHub\DotNetCore\基础\树形层\bin\Debug\netcoreapp3.1\树形层.deps.json
+F:\Git\GitHub\DotNetCore\基础\树形层\bin\Debug\netcoreapp3.1\树形层.runtimeconfig.json
+F:\Git\GitHub\DotNetCore\基础\树形层\bin\Debug\netcoreapp3.1\树形层.runtimeconfig.dev.json
+F:\Git\GitHub\DotNetCore\基础\树形层\bin\Debug\netcoreapp3.1\树形层.dll
+F:\Git\GitHub\DotNetCore\基础\树形层\bin\Debug\netcoreapp3.1\树形层.pdb
+F:\Git\GitHub\DotNetCore\基础\树形层\obj\Debug\netcoreapp3.1\树形层.csproj.CoreCompileInputs.cache
+F:\Git\GitHub\DotNetCore\基础\树形层\obj\Debug\netcoreapp3.1\树形层.AssemblyInfoInputs.cache
+F:\Git\GitHub\DotNetCore\基础\树形层\obj\Debug\netcoreapp3.1\树形层.AssemblyInfo.cs
+F:\Git\GitHub\DotNetCore\基础\树形层\obj\Debug\netcoreapp3.1\树形层.dll
+F:\Git\GitHub\DotNetCore\基础\树形层\obj\Debug\netcoreapp3.1\树形层.pdb
+F:\Git\GitHub\DotNetCore\基础\树形层\obj\Debug\netcoreapp3.1\树形层.genruntimeconfig.cache

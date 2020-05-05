@@ -1,0 +1,14 @@
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\bin\Debug\netcoreapp3.1\文件内容读取.exe
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\bin\Debug\netcoreapp3.1\文件内容读取.deps.json
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\bin\Debug\netcoreapp3.1\文件内容读取.runtimeconfig.json
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\bin\Debug\netcoreapp3.1\文件内容读取.runtimeconfig.dev.json
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\bin\Debug\netcoreapp3.1\文件内容读取.dll
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\bin\Debug\netcoreapp3.1\文件内容读取.pdb
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\obj\Debug\netcoreapp3.1\文件内容读取.csproj.CoreCompileInputs.cache
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\obj\Debug\netcoreapp3.1\文件内容读取.AssemblyInfoInputs.cache
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\obj\Debug\netcoreapp3.1\文件内容读取.AssemblyInfo.cs
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\obj\Debug\netcoreapp3.1\文件内容读取.dll
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\obj\Debug\netcoreapp3.1\文件内容读取.pdb
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\obj\Debug\netcoreapp3.1\文件内容读取.genruntimeconfig.cache
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\bin\Debug\netcoreapp3.1\data.txt
+F:\Git\GitHub\DotNetCore\基础\文件内容读取\obj\Debug\netcoreapp3.1\文件内容读取.csprojAssemblyReference.cache

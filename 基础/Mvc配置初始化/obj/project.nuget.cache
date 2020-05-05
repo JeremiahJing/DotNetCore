@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2/H2WNW6WK1p1pNfMHc8j08Uq5PsuCF/nI9ab+08ASC7ChSV5s0UECD4HZtncnIXdHJh7Kq05x/lmCAIJi+BBA==",
+  "success": true,
+  "projectFilePath": "F:\\Git\\GitHub\\DotNetCore\\基础\\Mvc配置初始化\\Mvc配置初始化.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jet\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+F:\Git\GitHub\DotNetCore\基础\ServiceProviderDemo\bin\Debug\netcoreapp3.1\ServiceProviderDemo.exe
+F:\Git\GitHub\DotNetCore\基础\ServiceProviderDemo\bin\Debug\netcoreapp3.1\ServiceProviderDemo.deps.json
+F:\Git\GitHub\DotNetCore\基础\ServiceProviderDemo\bin\Debug\netcoreapp3.1\ServiceProviderDemo.runtimeconfig.json
+F:\Git\GitHub\DotNetCore\基础\ServiceProviderDemo\bin\Debug\netcoreapp3.1\ServiceProviderDemo.runtimeconfig.dev.json
+F:\Git\GitHub\DotNetCore\基础\ServiceProviderDemo\bin\Debug\netcoreapp3.1\ServiceProviderDemo.dll
+F:\Git\GitHub\DotNetCore\基础\ServiceProviderDemo\bin\Debug\netcoreapp3.1\ServiceProviderDemo.pdb
+F:\Git\GitHub\DotNetCore\基础\ServiceProviderDemo\obj\Debug\netcoreapp3.1\ServiceProviderDemo.csproj.CoreCompileInputs.cache
+F:\Git\GitHub\DotNetCore\基础\ServiceProviderDemo\obj\Debug\netcoreapp3.1\ServiceProviderDemo.AssemblyInfoInputs.cache
+F:\Git\GitHub\DotNetCore\基础\ServiceProviderDemo\obj\Debug\netcoreapp3.1\ServiceProviderDemo.AssemblyInfo.cs
+F:\Git\GitHub\DotNetCore\基础\ServiceProviderDemo\obj\Debug\netcoreapp3.1\ServiceProviderDemo.dll
+F:\Git\GitHub\DotNetCore\基础\ServiceProviderDemo\obj\Debug\netcoreapp3.1\ServiceProviderDemo.pdb
+F:\Git\GitHub\DotNetCore\基础\ServiceProviderDemo\obj\Debug\netcoreapp3.1\ServiceProviderDemo.genruntimeconfig.cache

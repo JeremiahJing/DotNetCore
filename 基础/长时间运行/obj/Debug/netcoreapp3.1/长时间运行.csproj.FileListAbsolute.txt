@@ -1,0 +1,12 @@
+F:\Git\GitHub\DotNetCore\基础\长时间运行\bin\Debug\netcoreapp3.1\长时间运行.exe
+F:\Git\GitHub\DotNetCore\基础\长时间运行\bin\Debug\netcoreapp3.1\长时间运行.deps.json
+F:\Git\GitHub\DotNetCore\基础\长时间运行\bin\Debug\netcoreapp3.1\长时间运行.runtimeconfig.json
+F:\Git\GitHub\DotNetCore\基础\长时间运行\bin\Debug\netcoreapp3.1\长时间运行.runtimeconfig.dev.json
+F:\Git\GitHub\DotNetCore\基础\长时间运行\bin\Debug\netcoreapp3.1\长时间运行.dll
+F:\Git\GitHub\DotNetCore\基础\长时间运行\bin\Debug\netcoreapp3.1\长时间运行.pdb
+F:\Git\GitHub\DotNetCore\基础\长时间运行\obj\Debug\netcoreapp3.1\长时间运行.csproj.CoreCompileInputs.cache
+F:\Git\GitHub\DotNetCore\基础\长时间运行\obj\Debug\netcoreapp3.1\长时间运行.AssemblyInfoInputs.cache
+F:\Git\GitHub\DotNetCore\基础\长时间运行\obj\Debug\netcoreapp3.1\长时间运行.AssemblyInfo.cs
+F:\Git\GitHub\DotNetCore\基础\长时间运行\obj\Debug\netcoreapp3.1\长时间运行.dll
+F:\Git\GitHub\DotNetCore\基础\长时间运行\obj\Debug\netcoreapp3.1\长时间运行.pdb
+F:\Git\GitHub\DotNetCore\基础\长时间运行\obj\Debug\netcoreapp3.1\长时间运行.genruntimeconfig.cache

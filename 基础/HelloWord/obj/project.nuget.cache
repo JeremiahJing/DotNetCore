@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LyH9C0zUUlm9Ed4rlF6mLUvqy5aSiRD3DU6gVP+0xz9u+HWEfy1I/E7/qz59TFlfjARutv8OeMVgiPka+qj+ZA==",
+  "dgSpecHash": "wIwYEMzZkel2WXoaKDGm2HHhtLkfFEriz3yUS8y+dfamWj9jRAbpQ7dGKDspjfdCySmKVyOCvAZbhMsU+/cMIQ==",
   "success": true,
-  "projectFilePath": "F:\\Git\\Dotnet\\基础\\HelloWord\\HelloWord.csproj",
+  "projectFilePath": "F:\\Git\\GitHub\\DotNetCore\\基础\\HelloWord\\HelloWord.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

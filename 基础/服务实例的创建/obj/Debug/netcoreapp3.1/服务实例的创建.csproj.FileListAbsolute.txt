@@ -1,0 +1,13 @@
+F:\Git\GitHub\DotNetCore\基础\服务实例的创建\bin\Debug\netcoreapp3.1\服务实例的创建.exe
+F:\Git\GitHub\DotNetCore\基础\服务实例的创建\bin\Debug\netcoreapp3.1\服务实例的创建.deps.json
+F:\Git\GitHub\DotNetCore\基础\服务实例的创建\bin\Debug\netcoreapp3.1\服务实例的创建.runtimeconfig.json
+F:\Git\GitHub\DotNetCore\基础\服务实例的创建\bin\Debug\netcoreapp3.1\服务实例的创建.runtimeconfig.dev.json
+F:\Git\GitHub\DotNetCore\基础\服务实例的创建\bin\Debug\netcoreapp3.1\服务实例的创建.dll
+F:\Git\GitHub\DotNetCore\基础\服务实例的创建\bin\Debug\netcoreapp3.1\服务实例的创建.pdb
+F:\Git\GitHub\DotNetCore\基础\服务实例的创建\obj\Debug\netcoreapp3.1\服务实例的创建.csprojAssemblyReference.cache
+F:\Git\GitHub\DotNetCore\基础\服务实例的创建\obj\Debug\netcoreapp3.1\服务实例的创建.csproj.CoreCompileInputs.cache
+F:\Git\GitHub\DotNetCore\基础\服务实例的创建\obj\Debug\netcoreapp3.1\服务实例的创建.AssemblyInfoInputs.cache
+F:\Git\GitHub\DotNetCore\基础\服务实例的创建\obj\Debug\netcoreapp3.1\服务实例的创建.AssemblyInfo.cs
+F:\Git\GitHub\DotNetCore\基础\服务实例的创建\obj\Debug\netcoreapp3.1\服务实例的创建.dll
+F:\Git\GitHub\DotNetCore\基础\服务实例的创建\obj\Debug\netcoreapp3.1\服务实例的创建.pdb
+F:\Git\GitHub\DotNetCore\基础\服务实例的创建\obj\Debug\netcoreapp3.1\服务实例的创建.genruntimeconfig.cache

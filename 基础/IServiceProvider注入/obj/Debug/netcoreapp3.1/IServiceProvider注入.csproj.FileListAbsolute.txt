@@ -1,0 +1,13 @@
+F:\Git\GitHub\DotNetCore\基础\IServiceProvider注入\bin\Debug\netcoreapp3.1\IServiceProvider注入.exe
+F:\Git\GitHub\DotNetCore\基础\IServiceProvider注入\bin\Debug\netcoreapp3.1\IServiceProvider注入.deps.json
+F:\Git\GitHub\DotNetCore\基础\IServiceProvider注入\bin\Debug\netcoreapp3.1\IServiceProvider注入.runtimeconfig.json
+F:\Git\GitHub\DotNetCore\基础\IServiceProvider注入\bin\Debug\netcoreapp3.1\IServiceProvider注入.runtimeconfig.dev.json
+F:\Git\GitHub\DotNetCore\基础\IServiceProvider注入\bin\Debug\netcoreapp3.1\IServiceProvider注入.dll
+F:\Git\GitHub\DotNetCore\基础\IServiceProvider注入\bin\Debug\netcoreapp3.1\IServiceProvider注入.pdb
+F:\Git\GitHub\DotNetCore\基础\IServiceProvider注入\obj\Debug\netcoreapp3.1\IServiceProvider注入.csprojAssemblyReference.cache
+F:\Git\GitHub\DotNetCore\基础\IServiceProvider注入\obj\Debug\netcoreapp3.1\IServiceProvider注入.csproj.CoreCompileInputs.cache
+F:\Git\GitHub\DotNetCore\基础\IServiceProvider注入\obj\Debug\netcoreapp3.1\IServiceProvider注入.AssemblyInfoInputs.cache
+F:\Git\GitHub\DotNetCore\基础\IServiceProvider注入\obj\Debug\netcoreapp3.1\IServiceProvider注入.AssemblyInfo.cs
+F:\Git\GitHub\DotNetCore\基础\IServiceProvider注入\obj\Debug\netcoreapp3.1\IServiceProvider注入.dll
+F:\Git\GitHub\DotNetCore\基础\IServiceProvider注入\obj\Debug\netcoreapp3.1\IServiceProvider注入.pdb
+F:\Git\GitHub\DotNetCore\基础\IServiceProvider注入\obj\Debug\netcoreapp3.1\IServiceProvider注入.genruntimeconfig.cache

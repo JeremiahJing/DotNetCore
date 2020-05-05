@@ -1,0 +1,16 @@
+F:\Git\GitHub\DotNetCore\基础\承载坏境\bin\Debug\netcoreapp3.1\承载坏境.exe
+F:\Git\GitHub\DotNetCore\基础\承载坏境\bin\Debug\netcoreapp3.1\承载坏境.deps.json
+F:\Git\GitHub\DotNetCore\基础\承载坏境\bin\Debug\netcoreapp3.1\承载坏境.runtimeconfig.json
+F:\Git\GitHub\DotNetCore\基础\承载坏境\bin\Debug\netcoreapp3.1\承载坏境.runtimeconfig.dev.json
+F:\Git\GitHub\DotNetCore\基础\承载坏境\bin\Debug\netcoreapp3.1\承载坏境.dll
+F:\Git\GitHub\DotNetCore\基础\承载坏境\bin\Debug\netcoreapp3.1\承载坏境.pdb
+F:\Git\GitHub\DotNetCore\基础\承载坏境\obj\Debug\netcoreapp3.1\承载坏境.csproj.CoreCompileInputs.cache
+F:\Git\GitHub\DotNetCore\基础\承载坏境\obj\Debug\netcoreapp3.1\承载坏境.AssemblyInfoInputs.cache
+F:\Git\GitHub\DotNetCore\基础\承载坏境\obj\Debug\netcoreapp3.1\承载坏境.AssemblyInfo.cs
+F:\Git\GitHub\DotNetCore\基础\承载坏境\obj\Debug\netcoreapp3.1\承载坏境.dll
+F:\Git\GitHub\DotNetCore\基础\承载坏境\obj\Debug\netcoreapp3.1\承载坏境.pdb
+F:\Git\GitHub\DotNetCore\基础\承载坏境\obj\Debug\netcoreapp3.1\承载坏境.genruntimeconfig.cache
+F:\Git\GitHub\DotNetCore\基础\承载坏境\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Git\GitHub\DotNetCore\基础\承载坏境\bin\Debug\netcoreapp3.1\appsettings.production.json
+F:\Git\GitHub\DotNetCore\基础\承载坏境\bin\Debug\netcoreapp3.1\appsettings.staging.json
+F:\Git\GitHub\DotNetCore\基础\承载坏境\obj\Debug\netcoreapp3.1\承载坏境.csprojAssemblyReference.cache

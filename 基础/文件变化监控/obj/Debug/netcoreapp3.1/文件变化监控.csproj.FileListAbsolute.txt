@@ -1,0 +1,13 @@
+F:\Git\GitHub\DotNetCore\基础\文件变化监控\bin\Debug\netcoreapp3.1\文件变化监控.exe
+F:\Git\GitHub\DotNetCore\基础\文件变化监控\bin\Debug\netcoreapp3.1\文件变化监控.deps.json
+F:\Git\GitHub\DotNetCore\基础\文件变化监控\bin\Debug\netcoreapp3.1\文件变化监控.runtimeconfig.json
+F:\Git\GitHub\DotNetCore\基础\文件变化监控\bin\Debug\netcoreapp3.1\文件变化监控.runtimeconfig.dev.json
+F:\Git\GitHub\DotNetCore\基础\文件变化监控\bin\Debug\netcoreapp3.1\文件变化监控.dll
+F:\Git\GitHub\DotNetCore\基础\文件变化监控\bin\Debug\netcoreapp3.1\文件变化监控.pdb
+F:\Git\GitHub\DotNetCore\基础\文件变化监控\obj\Debug\netcoreapp3.1\文件变化监控.csproj.CoreCompileInputs.cache
+F:\Git\GitHub\DotNetCore\基础\文件变化监控\obj\Debug\netcoreapp3.1\文件变化监控.AssemblyInfoInputs.cache
+F:\Git\GitHub\DotNetCore\基础\文件变化监控\obj\Debug\netcoreapp3.1\文件变化监控.AssemblyInfo.cs
+F:\Git\GitHub\DotNetCore\基础\文件变化监控\obj\Debug\netcoreapp3.1\文件变化监控.dll
+F:\Git\GitHub\DotNetCore\基础\文件变化监控\obj\Debug\netcoreapp3.1\文件变化监控.pdb
+F:\Git\GitHub\DotNetCore\基础\文件变化监控\obj\Debug\netcoreapp3.1\文件变化监控.genruntimeconfig.cache
+F:\Git\GitHub\DotNetCore\基础\文件变化监控\obj\Debug\netcoreapp3.1\文件变化监控.csprojAssemblyReference.cache
